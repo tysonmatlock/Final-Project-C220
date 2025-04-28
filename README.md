@@ -2,14 +2,14 @@
 MSCH-C220 Game Jam, April 2025
 
 ## Theme: You Only Get One
-How you thought about or interpreted the theme
+We decided to make the player have "one" life. One and done!
 
 ## Game Play
-Objective
-Game-play instructions
+
+Use A and D to move left and right. Use space to jump and navigate obstacles.
 
 ## Impediments
-Struggles or surprises you encountered during the development of the game
+Our biggest struggles came with syncing our progress with one another. We lost a lot of work trying to get on the same syncs.
 
 ## Implementation
 
@@ -19,8 +19,7 @@ Character controller adapted from Alex Fourneaux (https://www.youtube.com/@Canad
 ## Future Development
 
 # Created by: Group Name
-List of group members (and contributions)
 
 ### Andrew Grindstaff: Level Design, Tile Maps
-### Conner Rice:
-### Tyson Matlock:
+### Conner Rice: Start and End scene, player animations
+### Tyson Matlock: Character Controller, Music
