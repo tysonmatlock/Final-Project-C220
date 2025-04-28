@@ -21,6 +21,6 @@ Character controller adapted from Alex Fourneaux (https://www.youtube.com/@Canad
 # Created by: Group Name
 List of group members (and contributions)
 
-### Andrew Grindstaff
-### Conner Rice
-### Tyson Matlock
+### Andrew Grindstaff: Level Design, Tile Maps
+### Conner Rice:
+### Tyson Matlock:
