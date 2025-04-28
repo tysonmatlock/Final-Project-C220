@@ -15,6 +15,7 @@ Our biggest struggles came with syncing our progress with one another. We lost a
 
 ## References
 Character controller adapted from Alex Fourneaux (https://www.youtube.com/@Canadarox28)
+Tile Maps from CraftPix.net (https://craftpix.net/)
 
 ## Future Development
 
